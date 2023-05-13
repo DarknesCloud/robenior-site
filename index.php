@@ -64,10 +64,10 @@
                       <!--  span.rd-navbar-subtitle=item.subtitle--></a>
                   </li>
 
-                  <li><a href="#clients">Clientes
+                  <!-- <li><a href="#clients">Clientes -->
                       <!--if (navbarTexts && typeof(item.subtitle) !== 'undefined')-->
                       <!--  span.rd-navbar-subtitle=item.subtitle--></a>
-                  </li>
+                  <!-- </li> -->
                   <li><a href="#blog">Blog
                       <!--if (navbarTexts && typeof(item.subtitle) !== 'undefined')-->
                       <!--  span.rd-navbar-subtitle=item.subtitle--></a>
@@ -145,7 +145,7 @@
           </div>
           <div class="row row-50">
             <div class="col-md-6 col-xl-4">
-              <div class="thumbnail-classic"><a href="#"><img src="images/portfolio-1-418x315.jpg" alt="" width="418" height="315"/></a>
+              <div class="thumbnail-classic"><a href="#"><img src="images/smartphones.jpg" alt="" width="418" height="315"/></a>
                 <div class="caption">
                   <h5><a class="thumbnail-classic-title" href="#">Smartphones de Calidad</a></h5>
                   <p>Ofrecemos una variedad de teléfonos de calidad. Desde smartphones modernos hasta teléfonos de oficina confiables, tenemos lo que necesitas para estar conectado. </p>
@@ -153,7 +153,7 @@
               </div>
             </div>
             <div class="col-md-6 col-xl-4">
-              <div class="thumbnail-classic"><a href="#"><img src="images/portfolio-2-418x315.jpg" alt="" width="418" height="315"/></a>
+              <div class="thumbnail-classic"><a href="#"><img src="images/computadoras.jpg" alt="" width="418" height="315"/></a>
                 <div class="caption">
                   <h5><a class="thumbnail-classic-title" href="#">Potentes Computadoras</a></h5>
                   <p>Te ofrecemos equipos potentes y eficientes que se adaptan a tus requerimientos. Ya sea que necesites una computadora portátil para trabajar sobre la marcha o una computadora de escritorio.</p>
@@ -161,7 +161,7 @@
               </div>
             </div>
             <div class="col-md-6 col-xl-4">
-              <div class="thumbnail-classic"><a href="#"><img src="images/portfolio-3-418x315.jpg" alt="" width="418" height="315"/></a>
+              <div class="thumbnail-classic"><a href="#"><img src="images/impresoras.jpg" alt="" width="418" height="315"/></a>
                 <div class="caption">
                   <h5><a class="thumbnail-classic-title" href="#">Impresoras Modernas</a></h5>
                   <p>Nuestras impresoras te brindan impresiones de alta calidad y versatilidad. Desde impresoras láser para documentos nítidos hasta impresoras multifuncionales</p>
@@ -247,7 +247,7 @@
             </div>
           </div>
         </div>
-        <div class="object-wrap__body object-wrap__body-sizing-1 object-wrap__body-md-right bg-image" style="background-image: url(images/bg-image-1.jpg)"></div>
+        <div class="object-wrap__body object-wrap__body-sizing-1 object-wrap__body-md-right bg-image" style="background-image: url(images/oficina.jpg)"></div>
       </section>
 
       <!-- Impressive Features-->
@@ -294,7 +294,7 @@
               </article>
             </div>
             <div class="col-md-7 col-lg-5">
-              <figure class="image-sizing-1"><img src="images/blog-image-1-886x668.jpg" alt="" width="886" height="668"/>
+              <figure class="image-sizing-1"><img src="images/tablet.jpg" alt="" width="886" height="668"/>
               </figure>
             </div>
           </div>
@@ -314,7 +314,7 @@
                 <li><a data-isotope-filter="Category 2" data-isotope-group="gallery" href="#">Publicidad</a></li>
               </ul>
               <div class="isotope row" data-isotope-layout="fitRows" data-isotope-group="gallery" data-lightgallery="group">
-                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 1"><a class="img-thumbnail-variant-3" href="#"><img src="images/portfolio-1-418x315.jpg" alt="" width="418" height="315"/><span class="label-custom label-white">Link</span>
+                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 1"><a class="img-thumbnail-variant-3" href="#"><img src="images/portfolio-1.jpg" alt="" width="418" height="315"/><span class="label-custom label-white">Link</span>
                           <div class="caption"><span class="icon hover-top-element linearicons-folder-picture"></span>
                             <ul class="list-inline-tag hover-top-element">
                               <li>Web Design</li>
@@ -324,8 +324,8 @@
                             <p class="small hover-bottom-element">Professional creative solutions.</p><span class="icon arrow-right linearicons-arrow-right"></span>
                           </div></a>
                 </div>
-                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 1"><a class="img-thumbnail-variant-3" href="images/portfolio-2-1200x600.jpg" data-lightgallery="item">
-                          <figure><img src="images/portfolio-2-418x315.jpg" alt="" width="418" height="315"/>
+                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 1"><a class="img-thumbnail-variant-3" href="images/portfolio-2.jpg" data-lightgallery="item">
+                          <figure><img src="images/portfolio-2.jpg" alt="" width="418" height="315"/>
                           </figure>
                           <div class="caption"><span class="icon hover-top-element linearicons-picture"></span>
                             <ul class="list-inline-tag hover-top-element">
@@ -336,7 +336,7 @@
                             <p class="small hover-bottom-element">Professional creative solutions.</p><span class="icon arrow-right linearicons-plus"></span>
                           </div></a>
                 </div>
-                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 1"><a class="img-thumbnail-variant-3" href="#"><img src="images/portfolio-3-418x315.jpg" alt="" width="418" height="315"/><span class="label-custom label-white">Link</span>
+                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 1"><a class="img-thumbnail-variant-3" href="#"><img src="images/portfolio-3.jpg" alt="" width="418" height="315"/><span class="label-custom label-white">Link</span>
                           <div class="caption"><span class="icon hover-top-element linearicons-folder-picture"></span>
                             <ul class="list-inline-tag hover-top-element">
                               <li>Web Design</li>
@@ -346,8 +346,8 @@
                             <p class="small hover-bottom-element">Professional creative solutions.</p><span class="icon arrow-right linearicons-arrow-right"></span>
                           </div></a>
                 </div>
-                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 1"><a class="img-thumbnail-variant-3" href="images/portfolio-original-4-1920x1440.jpg" data-lightgallery="item">
-                          <figure><img src="images/portfolio-4-418x315.jpg" alt="" width="418" height="315"/>
+                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 1"><a class="img-thumbnail-variant-3" href="images/portfolio-4.jpg" data-lightgallery="item">
+                          <figure><img src="images/portfolio-4.jpg" alt="" width="418" height="315"/>
                           </figure>
                           <div class="caption"><span class="icon hover-top-element linearicons-picture"></span>
                             <ul class="list-inline-tag hover-top-element">
@@ -358,7 +358,7 @@
                             <p class="small hover-bottom-element">Professional creative solutions.</p><span class="icon arrow-right linearicons-plus"></span>
                           </div></a>
                 </div>
-                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 2"><a class="img-thumbnail-variant-3" href="#"><img src="images/portfolio-5-418x315.jpg" alt="" width="418" height="315"/><span class="label-custom label-white">Link</span>
+                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 2"><a class="img-thumbnail-variant-3" href="#"><img src="images/portfolio-5.jpg" alt="" width="418" height="315"/><span class="label-custom label-white">Link</span>
                           <div class="caption"><span class="icon hover-top-element linearicons-folder-picture"></span>
                             <ul class="list-inline-tag hover-top-element">
                               <li>Web Development</li>
@@ -368,8 +368,8 @@
                             <p class="small hover-bottom-element">Professional creative solutions.</p><span class="icon arrow-right linearicons-arrow-right"></span>
                           </div></a>
                 </div>
-                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 2"><a class="img-thumbnail-variant-3" href="images/portfolio-original-6-1920x1280.jpg" data-lightgallery="item">
-                          <figure><img src="images/portfolio-6-418x315.jpg" alt="" width="418" height="315"/>
+                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 2"><a class="img-thumbnail-variant-3" href="images/portfolio-6.jpg" data-lightgallery="item">
+                          <figure><img src="images/portfolio-6.jpg" alt="" width="418" height="315"/>
                           </figure>
                           <div class="caption"><span class="icon hover-top-element linearicons-picture"></span>
                             <ul class="list-inline-tag hover-top-element">
@@ -380,8 +380,8 @@
                             <p class="small hover-bottom-element">Professional creative solutions.</p><span class="icon arrow-right linearicons-plus"></span>
                           </div></a>
                 </div>
-                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 2"><a class="img-thumbnail-variant-3" href="images/portfolio-original-7-1920x1280.jpg" data-lightgallery="item">
-                          <figure><img src="images/portfolio-7-418x315.jpg" alt="" width="418" height="315"/>
+                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 2"><a class="img-thumbnail-variant-3" href="images/portfolio-7.jpg" data-lightgallery="item">
+                          <figure><img src="images/portfolio-7.jpg" alt="" width="418" height="315"/>
                           </figure>
                           <div class="caption"><span class="icon hover-top-element linearicons-picture"></span>
                             <ul class="list-inline-tag hover-top-element">
@@ -392,8 +392,8 @@
                             <p class="small hover-bottom-element">Professional creative solutions.</p><span class="icon arrow-right linearicons-plus"></span>
                           </div></a>
                 </div>
-                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 2"><a class="img-thumbnail-variant-3" href="images/portfolio-original-8-1536x1920.jpg" data-lightgallery="item">
-                          <figure><img src="images/portfolio-8-418x315.jpg" alt="" width="418" height="315"/>
+                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 2"><a class="img-thumbnail-variant-3" href="images/portfolio-original-8.jpg" data-lightgallery="item">
+                          <figure><img src="images/portfolio-8.jpg" alt="" width="418" height="315"/>
                           </figure>
                           <div class="caption"><span class="icon hover-top-element linearicons-picture"></span>
                             <ul class="list-inline-tag hover-top-element">
@@ -404,8 +404,8 @@
                             <p class="small hover-bottom-element">Professional creative solutions.</p><span class="icon arrow-right linearicons-plus"></span>
                           </div></a>
                 </div>
-                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 2"><a class="img-thumbnail-variant-3" href="images/portfolio-original-9-1567x1920.jpg" data-lightgallery="item">
-                          <figure><img src="images/portfolio-9-418x315.jpg" alt="" width="418" height="315"/>
+                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 2"><a class="img-thumbnail-variant-3" href="images/portfolio-original-9.jpg" data-lightgallery="item">
+                          <figure><img src="images/portfolio-9.jpg" alt="" width="418" height="315"/>
                           </figure>
                           <div class="caption"><span class="icon hover-top-element linearicons-picture"></span>
                             <ul class="list-inline-tag hover-top-element">
@@ -427,7 +427,7 @@
         <div class="container">
           <h4 class="heading-decorated">Nuestro proceso de Trabajo</h4>
           <div class="row row-30 justify-content-center offset-top-2">
-            <div class="col-sm-10 col-lg-6"><img src="images/home-var-2-650x495.jpg" alt="" width="650" height="495"/>
+            <div class="col-sm-10 col-lg-6"><img src="images/equipo.jpg" alt="" width="650" height="495"/>
             </div>
             <div class="col-sm-10 col-lg-6">
               <!-- Blurb circle-->
@@ -622,7 +622,7 @@
               <h3 class="heading-decorated">La consistencia es la clave</h3>
               <p>En Robenior System, entendemos la importancia de la consistencia en el servicio de soporte técnico. Nuestro enfoque se basa en brindar soluciones coherentes y eficientes para tus necesidades tecnológicas. Nos aseguramos de que todos los elementos visuales y funcionales de tu sitio web de soporte técnico trabajen de manera armoniosa. Desde la estructura de encabezados y la navegación intuitiva hasta los detalles del diseño, nos comprometemos a ofrecer una experiencia fluida y satisfactoria para tus clientes.</p>
             </div>
-            <div class="col-md-9 col-lg-5"><img src="images/home-variant-7-464x464.jpg" alt="" width="464" height="464"/>
+            <div class="col-md-9 col-lg-5"><img src="images/papeles.jpg" alt="" width="464" height="464"/>
             </div>
           </div>
         </div>
@@ -747,7 +747,7 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
               <div class="item">
                 <!-- Quote default-->
                 <div class="quote-default">
-                  <div class="quote-default__image"><img src="images/deborah-quagmire-120x120.jpg" alt="" width="120" height="120"/>
+                  <div class="quote-default__image"><img src="images/richard.jpg" alt="" width="120" height="120"/>
                   </div>
                   <div class="quote-default__text">
                     <p class="q">Técnico Especializado</p>
@@ -758,7 +758,7 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
               <div class="item">
                 <!-- Quote default-->
                 <div class="quote-default">
-                  <div class="quote-default__image"><img src="images/benedict-arnold-120x120.jpg" alt="" width="120" height="120"/>
+                  <div class="quote-default__image"><img src="images/saul.jpg" alt="" width="120" height="120"/>
                   </div>
                   <div class="quote-default__text">
                     <p class="q">Desarrollador y Diseñador Web</p>
@@ -766,22 +766,22 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
                   <p class="quote-default__cite">Saul Leiva</p>
                 </div>
               </div>
-              <div class="item">
+              <!-- <div class="item"> -->
                 <!-- Quote default-->
-                <div class="quote-default">
+                <!-- <div class="quote-default">
                   <div class="quote-default__image"><img src="images/testimonials-3-120x120.jpg" alt="" width="120" height="120"/>
                   </div>
                   <div class="quote-default__text">
                     <p class="q">SEO de Robenior System</p>
                   </div>
                   <p class="quote-default__cite">Junior Ayala</p>
-                </div>
-              </div>
+                </div> -->
+              <!-- </div> -->
               <!--  -->
               <div class="item">
                 <!-- Quote default-->
                 <div class="quote-default">
-                  <div class="quote-default__image"><img src="images/testimonials-3-120x120.jpg" alt="" width="120" height="120"/>
+                  <div class="quote-default__image"><img src="images/larissa.jpg" alt="" width="120" height="120"/>
                   </div>
                   <div class="quote-default__text">
                     <p class="q">Asistente en Administración</p>
@@ -793,7 +793,7 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
               <div class="item">
                 <!-- Quote default-->
                 <div class="quote-default">
-                  <div class="quote-default__image"><img src="images/testimonials-3-120x120.jpg" alt="" width="120" height="120"/>
+                  <div class="quote-default__image"><img src="images/jose.jpg" alt="" width="120" height="120"/>
                   </div>
                   <div class="quote-default__text">
                     <p class="q">Agente de Ventas</p>
@@ -833,7 +833,7 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
             <div class="owl-carousel owl-carousel-spacing-2" data-items="1" data-sm-items="2" data-xl-items="3" data-dots="true" data-nav="false" data-stage-padding="15" data-margin="30" data-mouse-drag="false" data-loop="false" data-autoplay="true">
               <div class="owl-item">
                 <!-- Post classic-->
-                <article class="post-classic post-minimal"><a class="post-minimal-image" href="#"><img src="images/home-post-2-418x315.jpg" alt="" width="418" height="315"/></a>
+                <article class="post-classic post-minimal"><a class="post-minimal-image" href="#"><img src="images/productos.jpg" alt="" width="418" height="315"/></a>
                   <div class="post-classic-title">
                     <h6><a href="#">Descubre como obtener los mejores productos al mejor precio</a></h6>
                   </div>
@@ -848,7 +848,7 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
               </div>
               <div class="owl-item">
                 <!-- Post classic-->
-                <article class="post-classic post-minimal"><a class="post-minimal-image" href="#"><img src="images/home-post-1-418x315.jpg" alt="" width="418" height="315"/></a>
+                <article class="post-classic post-minimal"><a class="post-minimal-image" href="#"><img src="images/soporte-tecnico.jpg" alt="" width="418" height="315"/></a>
                   <div class="post-classic-title">
                     <h6><a href="#">¿Como puedo contratar sus servicios?</a></h6>
                   </div>
@@ -863,7 +863,7 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
               </div>
               <div class="owl-item">
                 <!-- Post classic-->
-                <article class="post-classic post-minimal"><a class="post-minimal-image" href="#"><img src="images/home-post-3-418x315.jpg" alt="" width="418" height="315"/></a>
+                <article class="post-classic post-minimal"><a class="post-minimal-image" href="#"><img src="images/web.jpg" alt="" width="418" height="315"/></a>
                   <div class="post-classic-title">
                     <h6><a href="#">¿Como consigo mi propia pagina Web?</a></h6>
                   </div>
@@ -878,7 +878,7 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
               </div>
               <div class="owl-item">
                 <!-- Post classic-->
-                <article class="post-classic post-minimal"><a class="post-minimal-image" href="#"><img src="images/home-post-1-418x315.jpg" alt="" width="418" height="315"/></a>
+                <article class="post-classic post-minimal"><a class="post-minimal-image" href="#"><img src="images/soporte-empresarial.jpg" alt="" width="418" height="315"/></a>
                   <div class="post-classic-title">
                     <h6><a href="#">Quiero Soporte Técnico para mi empresa</a></h6>
                   </div>
@@ -893,7 +893,7 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
               </div>
               <div class="owl-item">
                 <!-- Post classic-->
-                <article class="post-classic post-minimal"><a class="post-minimal-image" href="#"><img src="images/home-post-3-418x315.jpg" alt="" width="418" height="315"/></a>
+                <article class="post-classic post-minimal"><a class="post-minimal-image" href="#"><img src="images/correo.jpg" alt="" width="418" height="315"/></a>
                   <div class="post-classic-title">
                     <h6><a href="#">Necesito mi Correo Corporativo</a></h6>
                   </div>
@@ -908,7 +908,7 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
               </div>
               <div class="owl-item">
                 <!-- Post classic-->
-                <article class="post-classic post-minimal"><a class="post-minimal-image" href="#"><img src="images/home-post-2-418x315.jpg" alt="" width="418" height="315"/></a>
+                <article class="post-classic post-minimal"><a class="post-minimal-image" href="#"><img src="images/reparacion.jpg" alt="" width="418" height="315"/></a>
                   <div class="post-classic-title">
                     <h6><a href="#">Necesito Reparar mi Equipo</a></h6>
                   </div>
@@ -958,7 +958,7 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
             </div>
           </div>
         </div>
-        <div class="object-wrap__body object-wrap__body-sizing-1 object-wrap__body-md-left bg-image" style="background-image: url(images/bg-image-1.jpg)"></div>
+        <div class="object-wrap__body object-wrap__body-sizing-1 object-wrap__body-md-left bg-image" style="background-image: url(images/tablet.jpg)"></div>
       </section>
 
       <section><a class="d-block" href="#" ><img class="img-responsive"  alt="" width="2050" height="310"/></a></section>
