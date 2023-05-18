@@ -145,25 +145,25 @@
           </div>
           <div class="row row-50">
             <div class="col-md-6 col-xl-4">
-              <div class="thumbnail-classic"><a href="#"><img src="images/smartphones.jpg" alt="" width="418" height="315"/></a>
+              <div class="thumbnail-classic"><a href="products.php"><img src="images/smartphones.jpg" alt="" width="418" height="315"/></a>
                 <div class="caption">
-                  <h5><a class="thumbnail-classic-title" href="#">Productos Eléctronicos</a></h5>
+                  <h5><a class="thumbnail-classic-title" href="products.php">Productos Eléctronicos</a></h5>
                   <p>Ofrecemos una variedad de productos de calidad. Desde teclados modernos hasta mouse, audifonos o cualquier producto que tu necesites, tenemos lo que necesitas para estar conectado. </p>
                 </div>
               </div>
             </div>
             <div class="col-md-6 col-xl-4">
-              <div class="thumbnail-classic"><a href="#"><img src="images/computadoras.jpg" alt="" width="418" height="315"/></a>
+              <div class="thumbnail-classic"><a href="products.php"><img src="images/computadoras.jpg" alt="" width="418" height="315"/></a>
                 <div class="caption">
-                  <h5><a class="thumbnail-classic-title" href="#">Potentes Computadoras</a></h5>
+                  <h5><a class="thumbnail-classic-title" href="products.php">Potentes Computadoras</a></h5>
                   <p>Te ofrecemos equipos potentes y eficientes que se adaptan a tus requerimientos. Ya sea que necesites una computadora portátil para trabajar sobre la marcha o una computadora de escritorio.</p>
                 </div>
               </div>
             </div>
             <div class="col-md-6 col-xl-4">
-              <div class="thumbnail-classic"><a href="#"><img src="images/impresoras.jpg" alt="" width="418" height="315"/></a>
+              <div class="thumbnail-classic"><a href="products.php"><img src="images/impresoras.jpg" alt="" width="418" height="315"/></a>
                 <div class="caption">
-                  <h5><a class="thumbnail-classic-title" href="#">Impresoras Modernas</a></h5>
+                  <h5><a class="thumbnail-classic-title" href="products.php">Impresoras Modernas</a></h5>
                   <p>Nuestras impresoras te brindan impresiones de alta calidad y versatilidad. Desde impresoras láser para documentos nítidos hasta impresoras multifuncionales</p>
                 </div>
               </div>
@@ -577,7 +577,7 @@
           <h2>#1 En Elección de Diseño Web</h2>
           <h5 class="text-width-2 block-centered">ELECCIÓN DE DISEÑO WEB
 HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON ROBENIOR SYSTEM.</h5>
-          <div class="group-lg group-middle"><a class="button button-black" href="#">Contactanos</a></div>
+          <div class="group-lg group-middle"><a class="button button-black" href="#contacts">Contactanos</a></div>
         </div>
       </section>
 
@@ -757,7 +757,7 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
         <div class="container">
           <div class="row justify-content-md-center">
             <div class="col-md-11 col-lg-9 col-xl-8"> 
-              <h3 class="heading-decorated">¿NO HAS ENCONTRADO LO QUE TE GUSTA? ¡SIÉNTETE LIBRE DE CONTACTARNOS!</h3><a class="button button-primary" href="#">Ponerse en contacto</a>
+              <h3 class="heading-decorated">¿NO HAS ENCONTRADO LO QUE TE GUSTA? ¡SIÉNTETE LIBRE DE CONTACTARNOS!</h3><a class="button button-primary" href="#contacts">Ponerse en contacto</a>
             </div>
           </div>
         </div>
@@ -960,12 +960,7 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
                 <!--Please, add the data attribute data-key="YOUR_API_KEY" in order to insert your own API key for the Google map.-->
                 <!--Please note that YOUR_API_KEY should replaced with your key.-->
                 <!--Example: <div class="google-map-container" data-key="YOUR_API_KEY">-->
-                <div class="google-map-container" data-center="Asados Típicos Express, 9 Calle, San Pedro Sula, Cortes, 21101" data-zoom="17" data-icon="images/gmap_marker.png" data-icon-active="images/gmap_marker_active.png" data-styles="[{&quot;featureType&quot;:&quot;landscape&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:-100},{&quot;lightness&quot;:60}]},{&quot;featureType&quot;:&quot;road.local&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:-100},{&quot;lightness&quot;:40},{&quot;visibility&quot;:&quot;on&quot;}]},{&quot;featureType&quot;:&quot;transit&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:-100},{&quot;visibility&quot;:&quot;simplified&quot;}]},{&quot;featureType&quot;:&quot;administrative.province&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;water&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;on&quot;},{&quot;lightness&quot;:30}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ef8c25&quot;},{&quot;lightness&quot;:40}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.stroke&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;poi.park&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#b6c54c&quot;},{&quot;lightness&quot;:40},{&quot;saturation&quot;:-40}]},{}]">
-                <div class="google-map"></div>
-                <ul class="google-map-markers">
-                  <li data-location="Asados Típicos Express, 9 Calle, San Pedro Sula, Cortes, 21101" data-description="Asados Típicos Express"></li>
-                </ul>
-              </div>
+                
 
 
               </div>
