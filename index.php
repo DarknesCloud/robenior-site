@@ -147,8 +147,8 @@
             <div class="col-md-6 col-xl-4">
               <div class="thumbnail-classic"><a href="#"><img src="images/smartphones.jpg" alt="" width="418" height="315"/></a>
                 <div class="caption">
-                  <h5><a class="thumbnail-classic-title" href="#">Smartphones de Calidad</a></h5>
-                  <p>Ofrecemos una variedad de teléfonos de calidad. Desde smartphones modernos hasta teléfonos de oficina confiables, tenemos lo que necesitas para estar conectado. </p>
+                  <h5><a class="thumbnail-classic-title" href="#">Productos Eléctronicos</a></h5>
+                  <p>Ofrecemos una variedad de productos de calidad. Desde teclados modernos hasta mouse, audifonos o cualquier producto que tu necesites, tenemos lo que necesitas para estar conectado. </p>
                 </div>
               </div>
             </div>
@@ -314,107 +314,50 @@
                 <li><a data-isotope-filter="Category 2" data-isotope-group="gallery" href="#">Publicidad</a></li>
               </ul>
               <div class="isotope row" data-isotope-layout="fitRows" data-isotope-group="gallery" data-lightgallery="group">
-                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 1"><a class="img-thumbnail-variant-3" href="#"><img src="images/portfolio-1.jpg" alt="" width="418" height="315"/><span class="label-custom label-white">Link</span>
-                          <div class="caption"><span class="icon hover-top-element linearicons-folder-picture"></span>
-                            <ul class="list-inline-tag hover-top-element">
-                              <li>Web Design</li>
-                            </ul>
-                            <p class="heading-5 hover-top-element">iStep Co.</p>
-                            <div class="divider"></div>
-                            <p class="small hover-bottom-element">Professional creative solutions.</p><span class="icon arrow-right linearicons-arrow-right"></span>
-                          </div></a>
+              <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 1"><a class="img-thumbnail-variant-3" href="images/portfolio-1.jpg" data-lightgallery="item">
+                          <figure><img src="images/portfolio-1.jpg" alt="" width="418" height="315"/>
+                          </figure>
+                          </a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 1"><a class="img-thumbnail-variant-3" href="images/portfolio-2.jpg" data-lightgallery="item">
                           <figure><img src="images/portfolio-2.jpg" alt="" width="418" height="315"/>
                           </figure>
-                          <div class="caption"><span class="icon hover-top-element linearicons-picture"></span>
-                            <ul class="list-inline-tag hover-top-element">
-                              <li>Web Design</li>
-                            </ul>
-                            <p class="heading-5 hover-top-element">Fabricator Ltd.</p>
-                            <div class="divider"></div>
-                            <p class="small hover-bottom-element">Professional creative solutions.</p><span class="icon arrow-right linearicons-plus"></span>
-                          </div></a>
+                          </a>
                 </div>
-                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 1"><a class="img-thumbnail-variant-3" href="#"><img src="images/portfolio-3.jpg" alt="" width="418" height="315"/><span class="label-custom label-white">Link</span>
-                          <div class="caption"><span class="icon hover-top-element linearicons-folder-picture"></span>
-                            <ul class="list-inline-tag hover-top-element">
-                              <li>Web Design</li>
-                            </ul>
-                            <p class="heading-5 hover-top-element">Fresh Market</p>
-                            <div class="divider"></div>
-                            <p class="small hover-bottom-element">Professional creative solutions.</p><span class="icon arrow-right linearicons-arrow-right"></span>
-                          </div></a>
+                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 1"><a class="img-thumbnail-variant-3" href="images/portfolio-3.jpg" data-lightgallery="item">
+                          <figure><img src="images/portfolio-3.jpg" alt="" width="418" height="315"/>
+                          </figure>
+                          </a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 1"><a class="img-thumbnail-variant-3" href="images/portfolio-4.jpg" data-lightgallery="item">
                           <figure><img src="images/portfolio-4.jpg" alt="" width="418" height="315"/>
                           </figure>
-                          <div class="caption"><span class="icon hover-top-element linearicons-picture"></span>
-                            <ul class="list-inline-tag hover-top-element">
-                              <li>Web Design</li>
-                            </ul>
-                            <p class="heading-5 hover-top-element">Accessories Inc.</p>
-                            <div class="divider"></div>
-                            <p class="small hover-bottom-element">Professional creative solutions.</p><span class="icon arrow-right linearicons-plus"></span>
-                          </div></a>
+                          </a>
                 </div>
-                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 2"><a class="img-thumbnail-variant-3" href="#"><img src="images/portfolio-5.jpg" alt="" width="418" height="315"/><span class="label-custom label-white">Link</span>
-                          <div class="caption"><span class="icon hover-top-element linearicons-folder-picture"></span>
-                            <ul class="list-inline-tag hover-top-element">
-                              <li>Web Development</li>
-                            </ul>
-                            <p class="heading-5 hover-top-element">CorpAdvise</p>
-                            <div class="divider"></div>
-                            <p class="small hover-bottom-element">Professional creative solutions.</p><span class="icon arrow-right linearicons-arrow-right"></span>
-                          </div></a>
+                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 1"><a class="img-thumbnail-variant-3" href="images/portfolio-5.jpg" data-lightgallery="item">
+                          <figure><img src="images/portfolio-5.jpg" alt="" width="418" height="315"/>
+                          </figure>
+                         </a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 2"><a class="img-thumbnail-variant-3" href="images/portfolio-6.jpg" data-lightgallery="item">
                           <figure><img src="images/portfolio-6.jpg" alt="" width="418" height="315"/>
                           </figure>
-                          <div class="caption"><span class="icon hover-top-element linearicons-picture"></span>
-                            <ul class="list-inline-tag hover-top-element">
-                              <li>Web Development</li>
-                            </ul>
-                            <p class="heading-5 hover-top-element">GreenBiz</p>
-                            <div class="divider"></div>
-                            <p class="small hover-bottom-element">Professional creative solutions.</p><span class="icon arrow-right linearicons-plus"></span>
-                          </div></a>
+                        </a>
                 </div>
-                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 2"><a class="img-thumbnail-variant-3" href="images/portfolio-7.jpg" data-lightgallery="item">
+                <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 1"><a class="img-thumbnail-variant-3" href="images/portfolio-7.jpg" data-lightgallery="item">
                           <figure><img src="images/portfolio-7.jpg" alt="" width="418" height="315"/>
                           </figure>
-                          <div class="caption"><span class="icon hover-top-element linearicons-picture"></span>
-                            <ul class="list-inline-tag hover-top-element">
-                              <li>Web Development</li>
-                            </ul>
-                            <p class="heading-5 hover-top-element">InDivine</p>
-                            <div class="divider"></div>
-                            <p class="small hover-bottom-element">Professional creative solutions.</p><span class="icon arrow-right linearicons-plus"></span>
-                          </div></a>
+                          </a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 2"><a class="img-thumbnail-variant-3" href="images/portfolio-original-8.jpg" data-lightgallery="item">
                           <figure><img src="images/portfolio-8.jpg" alt="" width="418" height="315"/>
                           </figure>
-                          <div class="caption"><span class="icon hover-top-element linearicons-picture"></span>
-                            <ul class="list-inline-tag hover-top-element">
-                              <li>Web Development</li>
-                            </ul>
-                            <p class="heading-5 hover-top-element">InterFashion</p>
-                            <div class="divider"></div>
-                            <p class="small hover-bottom-element">Professional creative solutions.</p><span class="icon arrow-right linearicons-plus"></span>
-                          </div></a>
+                        </a>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 isotope-item" data-filter="Category 2"><a class="img-thumbnail-variant-3" href="images/portfolio-original-9.jpg" data-lightgallery="item">
                           <figure><img src="images/portfolio-9.jpg" alt="" width="418" height="315"/>
                           </figure>
-                          <div class="caption"><span class="icon hover-top-element linearicons-picture"></span>
-                            <ul class="list-inline-tag hover-top-element">
-                              <li>Web Development</li>
-                            </ul>
-                            <p class="heading-5 hover-top-element">Simplify</p>
-                            <div class="divider"></div>
-                            <p class="small hover-bottom-element">Professional creative solutions.</p><span class="icon arrow-right linearicons-plus"></span>
-                          </div></a>
+                          </a>
                 </div>
               </div>
             </div>
@@ -833,12 +776,12 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
             <div class="owl-carousel owl-carousel-spacing-2" data-items="1" data-sm-items="2" data-xl-items="3" data-dots="true" data-nav="false" data-stage-padding="15" data-margin="30" data-mouse-drag="false" data-loop="false" data-autoplay="true">
               <div class="owl-item">
                 <!-- Post classic-->
-                <article class="post-classic post-minimal"><a class="post-minimal-image" href="#"><img src="images/productos.jpg" alt="" width="418" height="315"/></a>
+                <article class="post-classic post-minimal"><a class="post-minimal-image" href="https://wa.link/jn9p62"><img src="images/productos.jpg" alt="" width="418" height="315"/></a>
                   <div class="post-classic-title">
-                    <h6><a href="#">Descubre como obtener los mejores productos al mejor precio</a></h6>
+                    <h6><a href="https://wa.link/jn9p62">¿como obtener los mejores productos al mejor precio?</a></h6>
                   </div>
                   <div class="post-meta">
-                    <div class="group"><a href="#">
+                    <div class="group"><a href="https://wa.link/jn9p62">
                         <time datetime="2019">May.12, 2023</time></a><a class="meta-author" href="#">by Inversiones Robenior</a></div>
                   </div>
                   <div class="post-classic-body">
@@ -848,12 +791,12 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
               </div>
               <div class="owl-item">
                 <!-- Post classic-->
-                <article class="post-classic post-minimal"><a class="post-minimal-image" href="#"><img src="images/soporte-tecnico.jpg" alt="" width="418" height="315"/></a>
+                <article class="post-classic post-minimal"><a class="post-minimal-image" href="https://wa.link/nezz3f"><img src="images/soporte-tecnico.jpg" alt="" width="418" height="315"/></a>
                   <div class="post-classic-title">
-                    <h6><a href="#">¿Como puedo contratar sus servicios?</a></h6>
+                    <h6><a href="https://wa.link/nezz3f">¿Como puedo contratar sus servicios?</a></h6>
                   </div>
                   <div class="post-meta">
-                    <div class="group"><a href="#">
+                    <div class="group"><a href="https://wa.link/nezz3f">
                         <time datetime="2019">May.12, 2023</time></a><a class="meta-author" href="#">by Inversiones Robenior</a></div>
                   </div>
                   <div class="post-classic-body">
@@ -863,12 +806,12 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
               </div>
               <div class="owl-item">
                 <!-- Post classic-->
-                <article class="post-classic post-minimal"><a class="post-minimal-image" href="#"><img src="images/web.jpg" alt="" width="418" height="315"/></a>
+                <article class="post-classic post-minimal"><a class="post-minimal-image" href="https://wa.link/a2jvas"><img src="images/web.jpg" alt="" width="418" height="315"/></a>
                   <div class="post-classic-title">
-                    <h6><a href="#">¿Como consigo mi propia pagina Web?</a></h6>
+                    <h6><a href="https://wa.link/a2jvas">¿Como consigo mi propia pagina Web?</a></h6>
                   </div>
                   <div class="post-meta">
-                    <div class="group"><a href="#">
+                    <div class="group"><a href="https://wa.link/a2jvas">
                         <time datetime="2019">May.12, 2023</time></a><a class="meta-author" href="#">by Inversiones Robenior</a></div>
                   </div>
                   <div class="post-classic-body">
@@ -878,12 +821,12 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
               </div>
               <div class="owl-item">
                 <!-- Post classic-->
-                <article class="post-classic post-minimal"><a class="post-minimal-image" href="#"><img src="images/soporte-empresarial.jpg" alt="" width="418" height="315"/></a>
+                <article class="post-classic post-minimal"><a class="post-minimal-image" href="https://wa.link/0eng6t"><img src="images/soporte-empresarial.jpg" alt="" width="418" height="315"/></a>
                   <div class="post-classic-title">
-                    <h6><a href="#">Quiero Soporte Técnico para mi empresa</a></h6>
+                    <h6><a href="https://wa.link/0eng6t">Quiero Soporte Técnico para mi empresa</a></h6>
                   </div>
                   <div class="post-meta">
-                    <div class="group"><a href="#">
+                    <div class="group"><a href="https://wa.link/0eng6t">
                         <time datetime="2019">May.12, 2023</time></a><a class="meta-author" href="#">by Inversiones Robenior</a></div>
                   </div>
                   <div class="post-classic-body">
@@ -893,12 +836,12 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
               </div>
               <div class="owl-item">
                 <!-- Post classic-->
-                <article class="post-classic post-minimal"><a class="post-minimal-image" href="#"><img src="images/correo.jpg" alt="" width="418" height="315"/></a>
+                <article class="post-classic post-minimal"><a class="post-minimal-image" href="https://wa.link/251nc1"><img src="images/correo.jpg" alt="" width="418" height="315"/></a>
                   <div class="post-classic-title">
-                    <h6><a href="#">Necesito mi Correo Corporativo</a></h6>
+                    <h6><a href="https://wa.link/251nc1">Necesito mi Correo Corporativo</a></h6>
                   </div>
                   <div class="post-meta">
-                    <div class="group"><a href="#">
+                    <div class="group"><a href="https://wa.link/251nc1">
                         <time datetime="2019">May.12, 2023</time></a><a class="meta-author" href="#">by Inversiones Robenior</a></div>
                   </div>
                   <div class="post-classic-body">
@@ -908,12 +851,12 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
               </div>
               <div class="owl-item">
                 <!-- Post classic-->
-                <article class="post-classic post-minimal"><a class="post-minimal-image" href="#"><img src="images/reparacion.jpg" alt="" width="418" height="315"/></a>
+                <article class="post-classic post-minimal"><a class="post-minimal-image" href="https://wa.link/dggptr"><img src="images/reparacion.jpg" alt="" width="418" height="315"/></a>
                   <div class="post-classic-title">
-                    <h6><a href="#">Necesito Reparar mi Equipo</a></h6>
+                    <h6><a href="https://wa.link/dggptr">Necesito Reparar mi Equipo</a></h6>
                   </div>
                   <div class="post-meta">
-                    <div class="group"><a href="#">
+                    <div class="group"><a href="https://wa.link/dggptr">
                         <time datetime="2019">May.12, 2023</time></a><a class="meta-author" href="#">by Inversiones Robenior</a></div>
                   </div>
                   <div class="post-classic-body">
