@@ -927,7 +927,7 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
                 <li>
                   <dl class="list-terms-minimal">
                     <dt>Dirección</dt>
-                    <dd>Bo. El Benque, 9 Calle. 10 y 11 Ave.</dd>
+                    <dd>San Pedro Sula, Honduras</dd>
                   </dl>
                 </li>
                 <li>
@@ -944,7 +944,7 @@ HAZ TU WEB MUCHO MÁS ATRACTIVA PARA TUS CLIENTES HABITUALES Y POTENCIALES CON R
                 <li>
                   <dl class="list-terms-minimal">
                     <dt>E-mail</dt>
-                    <dd><a class="link-primary" href="mailto:#">junior.alexis@robenior.com</a></dd>
+                    <dd><a class="link-primary" href="mailto:#">junior.ayala@robenior.com</a></dd>
                   </dl>
                 </li>
                 <li>

@@ -121,7 +121,7 @@
                 <li>
                   <dl class="list-terms-minimal">
                     <dt>Dirección</dt>
-                    <dd>Bo. El Benque, 9 Calle. 10 y 11 Ave.</dd>
+                    <dd>San Pedro Sula, Honduras</dd>
                   </dl>
                 </li>
                 <li>
@@ -138,7 +138,7 @@
                 <li>
                   <dl class="list-terms-minimal">
                     <dt>E-mail</dt>
-                    <dd><a class="link-primary" href="mailto:#">junior.alexis@robenior.com</a></dd>
+                    <dd><a class="link-primary" href="mailto:#">junior.ayala@robenior.com</a></dd>
                   </dl>
                 </li>
                 <li>
@@ -150,19 +150,7 @@
               </ul>
             </div>
             <div class="col-sm-10 col-md-6 col-lg-5 col-xl-3">
-              <div class="google-map-footer">
-                <!--Please, add the data attribute data-key="YOUR_API_KEY" in order to insert your own API key for the Google map.-->
-                <!--Please note that YOUR_API_KEY should replaced with your key.-->
-                <!--Example: <div class="google-map-container" data-key="YOUR_API_KEY">-->
-                <div class="google-map-container" data-center="Asados Típicos Express, 9 Calle, San Pedro Sula, Cortes, 21101" data-zoom="17" data-icon="images/gmap_marker.png" data-icon-active="images/gmap_marker_active.png" data-styles="[{&quot;featureType&quot;:&quot;landscape&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:-100},{&quot;lightness&quot;:60}]},{&quot;featureType&quot;:&quot;road.local&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:-100},{&quot;lightness&quot;:40},{&quot;visibility&quot;:&quot;on&quot;}]},{&quot;featureType&quot;:&quot;transit&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:-100},{&quot;visibility&quot;:&quot;simplified&quot;}]},{&quot;featureType&quot;:&quot;administrative.province&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;water&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;on&quot;},{&quot;lightness&quot;:30}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ef8c25&quot;},{&quot;lightness&quot;:40}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.stroke&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;poi.park&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#b6c54c&quot;},{&quot;lightness&quot;:40},{&quot;saturation&quot;:-40}]},{}]">
-                <div class="google-map"></div>
-                <ul class="google-map-markers">
-                  <li data-location="Asados Típicos Express, 9 Calle, San Pedro Sula, Cortes, 21101" data-description="Asados Típicos Express"></li>
-                </ul>
-              </div>
-
-
-              </div>
+              
             </div>
           </div>
         </div>

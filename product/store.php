@@ -55,7 +55,7 @@
                   <div class="product-body">
                     <p class="product-category">Category</p>
                     <h3 class="product-name">
-                      <a href="#">Ver Producto</a>
+                      <a href="#">iMac core i5 2012</a>
                     </h3>
                     <h4 class="product-price">
                       Preguntar precio <del class="product-old-price">$999.00</del>
@@ -67,24 +67,11 @@
                       <i class="fa fa-star"></i>
                       <i class="fa fa-star"></i>
                     </div>
-                    <div class="product-btns">
-                      <button class="add-to-wishlist">
-                        <i class="fa fa-heart-o"></i
-                        ><span class="tooltipp">add to wishlist</span>
-                      </button>
-                      <button class="add-to-compare">
-                        <i class="fa fa-exchange"></i
-                        ><span class="tooltipp">add to compare</span>
-                      </button>
-                      <button class="quick-view">
-                        <i class="fa fa-eye"></i
-                        ><span class="tooltipp">quick view</span>
-                      </button>
-                    </div>
+                   
                   </div>
                   <div class="add-to-cart">
                     <button class="add-to-cart-btn">
-                      <i class="fa fa-shopping-cart"></i> Click Aqui
+                      <i class="fa fa-shopping-cart"></i> <a href="https://wa.link/kecr57" class="enlace-producto-saul">Click Aqui</a>
                     </button>
                   </div>
                 </div>
@@ -103,7 +90,7 @@
                   <div class="product-body">
                     <p class="product-category">Category</p>
                     <h3 class="product-name">
-                      <a href="#">Ver Producto</a>
+                      <a href="#">iPhone 13 Pro 128 GB</a>
                     </h3>
                     <h4 class="product-price">
                       Preguntar precio <del class="product-old-price">$999.00</del>
@@ -115,24 +102,11 @@
                       <i class="fa fa-star"></i>
                       <i class="fa fa-star-o"></i>
                     </div>
-                    <div class="product-btns">
-                      <button class="add-to-wishlist">
-                        <i class="fa fa-heart-o"></i
-                        ><span class="tooltipp">add to wishlist</span>
-                      </button>
-                      <button class="add-to-compare">
-                        <i class="fa fa-exchange"></i
-                        ><span class="tooltipp">add to compare</span>
-                      </button>
-                      <button class="quick-view">
-                        <i class="fa fa-eye"></i
-                        ><span class="tooltipp">quick view</span>
-                      </button>
-                    </div>
+                    
                   </div>
                   <div class="add-to-cart">
                     <button class="add-to-cart-btn">
-                      <i class="fa fa-shopping-cart"></i> Click Aqui
+                      <i class="fa fa-shopping-cart"></i> <a href="https://wa.link/kecr57" class="enlace-producto-saul">Click Aqui</a>
                     </button>
                   </div>
                 </div>
@@ -150,30 +124,17 @@
                   <div class="product-body">
                     <p class="product-category">Category</p>
                     <h3 class="product-name">
-                      <a href="#">Ver Producto</a>
+                      <a href="#">iMac core i3 2013</a>
                     </h3>
                     <h4 class="product-price">
                       Preguntar precio <del class="product-old-price">$999.00</del>
                     </h4>
                     <div class="product-rating"></div>
-                    <div class="product-btns">
-                      <button class="add-to-wishlist">
-                        <i class="fa fa-heart-o"></i
-                        ><span class="tooltipp">add to wishlist</span>
-                      </button>
-                      <button class="add-to-compare">
-                        <i class="fa fa-exchange"></i
-                        ><span class="tooltipp">add to compare</span>
-                      </button>
-                      <button class="quick-view">
-                        <i class="fa fa-eye"></i
-                        ><span class="tooltipp">quick view</span>
-                      </button>
-                    </div>
+                    
                   </div>
                   <div class="add-to-cart">
                     <button class="add-to-cart-btn">
-                      <i class="fa fa-shopping-cart"></i> Click Aqui
+                      <i class="fa fa-shopping-cart"></i> <a href="https://wa.link/kecr57" class="enlace-producto-saul">Click Aqui</a>
                     </button>
                   </div>
                 </div>
@@ -191,30 +152,17 @@
                   <div class="product-body">
                     <p class="product-category">Category</p>
                     <h3 class="product-name">
-                      <a href="#">Ver Producto</a>
+                      <a href="#">Dell Inspiron Pórtatil</a>
                     </h3>
                     <h4 class="product-price">
                       Preguntar precio <del class="product-old-price">$999.00</del>
                     </h4>
                     <div class="product-rating"></div>
-                    <div class="product-btns">
-                      <button class="add-to-wishlist">
-                        <i class="fa fa-heart-o"></i
-                        ><span class="tooltipp">add to wishlist</span>
-                      </button>
-                      <button class="add-to-compare">
-                        <i class="fa fa-exchange"></i
-                        ><span class="tooltipp">add to compare</span>
-                      </button>
-                      <button class="quick-view">
-                        <i class="fa fa-eye"></i
-                        ><span class="tooltipp">quick view</span>
-                      </button>
-                    </div>
+                   
                   </div>
                   <div class="add-to-cart">
                     <button class="add-to-cart-btn">
-                      <i class="fa fa-shopping-cart"></i> Click Aqui
+                      <i class="fa fa-shopping-cart"></i> <a href="https://wa.link/kecr57" class="enlace-producto-saul">Click Aqui</a>
                     </button>
                   </div>
                 </div>
@@ -232,30 +180,18 @@
                   <div class="product-body">
                     <p class="product-category">Category</p>
                     <h3 class="product-name">
-                      <a href="#">Ver Producto</a>
+                      <a href="#">Mac Mini 2014</a>
                     </h3>
                     <h4 class="product-price">
                       Preguntar precio <del class="product-old-price">$999.00</del>
                     </h4>
                     <div class="product-rating"></div>
-                    <div class="product-btns">
-                      <button class="add-to-wishlist">
-                        <i class="fa fa-heart-o"></i
-                        ><span class="tooltipp">add to wishlist</span>
-                      </button>
-                      <button class="add-to-compare">
-                        <i class="fa fa-exchange"></i
-                        ><span class="tooltipp">add to compare</span>
-                      </button>
-                      <button class="quick-view">
-                        <i class="fa fa-eye"></i
-                        ><span class="tooltipp">quick view</span>
-                      </button>
-                    </div>
+
+                   
                   </div>
                   <div class="add-to-cart">
                     <button class="add-to-cart-btn">
-                      <i class="fa fa-shopping-cart"></i> Click Aqui
+                      <i class="fa fa-shopping-cart"></i> <a href="https://wa.link/kecr57" class="enlace-producto-saul">Click Aqui</a>
                     </button>
                   </div>
                 </div>
@@ -271,7 +207,7 @@
                   <div class="product-body">
                     <p class="product-category">Category</p>
                     <h3 class="product-name">
-                      <a href="#">Ver Producto</a>
+                      <a href="#">CPU HP Prodesk</a>
                     </h3>
                     <h4 class="product-price">
                       Preguntar precio <del class="product-old-price">$999.00</del>
@@ -283,24 +219,11 @@
                       <i class="fa fa-star"></i>
                       <i class="fa fa-star-o"></i>
                     </div>
-                    <div class="product-btns">
-                      <button class="add-to-wishlist">
-                        <i class="fa fa-heart-o"></i
-                        ><span class="tooltipp">add to wishlist</span>
-                      </button>
-                      <button class="add-to-compare">
-                        <i class="fa fa-exchange"></i
-                        ><span class="tooltipp">add to compare</span>
-                      </button>
-                      <button class="quick-view">
-                        <i class="fa fa-eye"></i
-                        ><span class="tooltipp">quick view</span>
-                      </button>
-                    </div>
+                    
                   </div>
                   <div class="add-to-cart">
                     <button class="add-to-cart-btn">
-                      <i class="fa fa-shopping-cart"></i> Click Aqui
+                      <i class="fa fa-shopping-cart"></i> <a href="https://wa.link/kecr57" class="enlace-producto-saul">Click Aqui</a>
                     </button>
                   </div>
                 </div>
@@ -320,7 +243,7 @@
                   <div class="product-body">
                     <p class="product-category">Category</p>
                     <h3 class="product-name">
-                      <a href="#">Ver Producto</a>
+                      <a href="#">iPhone 13 Pro</a>
                     </h3>
                     <h4 class="product-price">
                       Preguntar precio <del class="product-old-price">$999.00</del>
@@ -332,24 +255,11 @@
                       <i class="fa fa-star"></i>
                       <i class="fa fa-star"></i>
                     </div>
-                    <div class="product-btns">
-                      <button class="add-to-wishlist">
-                        <i class="fa fa-heart-o"></i
-                        ><span class="tooltipp">add to wishlist</span>
-                      </button>
-                      <button class="add-to-compare">
-                        <i class="fa fa-exchange"></i
-                        ><span class="tooltipp">add to compare</span>
-                      </button>
-                      <button class="quick-view">
-                        <i class="fa fa-eye"></i
-                        ><span class="tooltipp">quick view</span>
-                      </button>
-                    </div>
+                   
                   </div>
                   <div class="add-to-cart">
                     <button class="add-to-cart-btn">
-                      <i class="fa fa-shopping-cart"></i> Click Aqui
+                      <i class="fa fa-shopping-cart"></i> <a href="https://wa.link/kecr57" class="enlace-producto-saul">Click Aqui</a>
                     </button>
                   </div>
                 </div>
@@ -365,30 +275,17 @@
                   <div class="product-body">
                     <p class="product-category">Category</p>
                     <h3 class="product-name">
-                      <a href="#">Ver Producto</a>
+                      <a href="#">Teclado Inalámbrico Logitec. Combo Gaming</a>
                     </h3>
                     <h4 class="product-price">
                       Preguntar precio <del class="product-old-price">$999.00</del>
                     </h4>
                     <div class="product-rating"></div>
-                    <div class="product-btns">
-                      <button class="add-to-wishlist">
-                        <i class="fa fa-heart-o"></i
-                        ><span class="tooltipp">add to wishlist</span>
-                      </button>
-                      <button class="add-to-compare">
-                        <i class="fa fa-exchange"></i
-                        ><span class="tooltipp">add to compare</span>
-                      </button>
-                      <button class="quick-view">
-                        <i class="fa fa-eye"></i
-                        ><span class="tooltipp">quick view</span>
-                      </button>
-                    </div>
+                   
                   </div>
                   <div class="add-to-cart">
                     <button class="add-to-cart-btn">
-                      <i class="fa fa-shopping-cart"></i> Click Aqui
+                      <i class="fa fa-shopping-cart"></i> <a href="https://wa.link/kecr57" class="enlace-producto-saul">Click Aqui</a>
                     </button>
                   </div>
                 </div>
@@ -406,30 +303,17 @@
                   <div class="product-body">
                     <p class="product-category">Category</p>
                     <h3 class="product-name">
-                      <a href="#">Ver Producto</a>
+                      <a href="#">UPS </a>
                     </h3>
                     <h4 class="product-price">
                       Preguntar precio <del class="product-old-price">$999.00</del>
                     </h4>
                     <div class="product-rating"></div>
-                    <div class="product-btns">
-                      <button class="add-to-wishlist">
-                        <i class="fa fa-heart-o"></i
-                        ><span class="tooltipp">add to wishlist</span>
-                      </button>
-                      <button class="add-to-compare">
-                        <i class="fa fa-exchange"></i
-                        ><span class="tooltipp">add to compare</span>
-                      </button>
-                      <button class="quick-view">
-                        <i class="fa fa-eye"></i
-                        ><span class="tooltipp">quick view</span>
-                      </button>
-                    </div>
+                   
                   </div>
                   <div class="add-to-cart">
                     <button class="add-to-cart-btn">
-                      <i class="fa fa-shopping-cart"></i> Click Aqui
+                      <i class="fa fa-shopping-cart"></i> <a href="https://wa.link/kecr57" class="enlace-producto-saul">Click Aqui</a>
                     </button>
                   </div>
                 </div>
