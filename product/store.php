@@ -55,7 +55,7 @@
                   <div class="product-body">
                     <p class="product-category">Category</p>
                     <h3 class="product-name">
-                      <a href="#">iMac core i5 2012</a>
+                      <a href="#">LAPTOP DELL INSPIRON</a>
                     </h3>
                     <h4 class="product-price">
                       Preguntar precio <del class="product-old-price">$999.00</del>
@@ -124,7 +124,7 @@
                   <div class="product-body">
                     <p class="product-category">Category</p>
                     <h3 class="product-name">
-                      <a href="#">iMac core i3 2013</a>
+                      <a href="#">MAC MINI 2014</a>
                     </h3>
                     <h4 class="product-price">
                       Preguntar precio <del class="product-old-price">$999.00</del>
@@ -152,7 +152,7 @@
                   <div class="product-body">
                     <p class="product-category">Category</p>
                     <h3 class="product-name">
-                      <a href="#">Dell Inspiron Pórtatil</a>
+                      <a href="#">CPU HP PRODESK</a>
                     </h3>
                     <h4 class="product-price">
                       Preguntar precio <del class="product-old-price">$999.00</del>
@@ -180,7 +180,7 @@
                   <div class="product-body">
                     <p class="product-category">Category</p>
                     <h3 class="product-name">
-                      <a href="#">Mac Mini 2014</a>
+                      <a href="#">CPU DELL OPTIPLEX 960</a>
                     </h3>
                     <h4 class="product-price">
                       Preguntar precio <del class="product-old-price">$999.00</del>
@@ -243,7 +243,7 @@
                   <div class="product-body">
                     <p class="product-category">Category</p>
                     <h3 class="product-name">
-                      <a href="#">iPhone 13 Pro</a>
+                      <a href="#">iMAC APPLE 2012 </a>
                     </h3>
                     <h4 class="product-price">
                       Preguntar precio <del class="product-old-price">$999.00</del>
@@ -266,8 +266,10 @@
               </div>
               <!-- /product -->
 
+              
               <!-- product -->
-              <div class="col-md-4 col-xs-6">
+              
+              <!-- <div class="col-md-4 col-xs-6">
                 <div class="product">
                   <div class="product-img">
                     <img src="./product/img/product08.jpg" alt="" />
@@ -290,12 +292,14 @@
                   </div>
                 </div>
               </div>
+               -->
               <!-- /product -->
 
               <div class="clearfix visible-sm visible-xs"></div>
 
               <!-- product -->
-              <div class="col-md-4 col-xs-6">
+              
+              <!-- <div class="col-md-4 col-xs-6">
                 <div class="product">
                   <div class="product-img">
                     <img src="./product/img/product09.jpg" alt="" />
@@ -318,6 +322,8 @@
                   </div>
                 </div>
               </div>
+               -->
+              
               <!-- /product -->
             </div>
             <!-- /store products -->

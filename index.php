@@ -145,6 +145,7 @@
           </div>
           <div class="row row-50">
             <div class="col-md-6 col-xl-4">
+              <div class="custom-store">
               <div class="thumbnail-classic"><a href="products.php"><img src="images/smartphones.jpg" alt="" width="418" height="315"/></a>
                 <div class="caption">
                   <h5><a class="thumbnail-classic-title" href="products.php">Productos Eléctronicos</a></h5>
@@ -152,7 +153,9 @@
                 </div>
               </div>
             </div>
+            </div>
             <div class="col-md-6 col-xl-4">
+              <div class=custom-store>
               <div class="thumbnail-classic"><a href="products.php"><img src="images/computadoras.jpg" alt="" width="418" height="315"/></a>
                 <div class="caption">
                   <h5><a class="thumbnail-classic-title" href="products.php">Potentes Computadoras</a></h5>
@@ -160,14 +163,17 @@
                 </div>
               </div>
             </div>
+            </div>
             <div class="col-md-6 col-xl-4">
-              <div class="thumbnail-classic"><a href="products.php"><img src="images/impresoras.jpg" alt="" width="418" height="315"/></a>
+           <div class="custom-store">
+           <div class="thumbnail-classic"><a href="products.php"><img src="images/impresoras.jpg" alt="" width="418" height="315"/></a>
                 <div class="caption">
                   <h5><a class="thumbnail-classic-title" href="products.php">Impresoras Modernas</a></h5>
                   <p>Nuestras impresoras te brindan impresiones de alta calidad y versatilidad. Desde impresoras láser para documentos nítidos hasta impresoras multifuncionales</p>
                 </div>
               </div>
             </div>
+           </div>
           </div>
         </div>
       </section>

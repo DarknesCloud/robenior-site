@@ -2249,3 +2249,11 @@ textarea.input {
     margin-top: 10px;
   }
 }
+
+.custom-store {
+  transition: 0.3s;
+}
+
+.custom-store:hover {
+  transform: scale(1.1);
+}
